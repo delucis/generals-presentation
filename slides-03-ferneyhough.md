@@ -3,6 +3,27 @@
 ### 1973–76
 
 --
+<!-- .slide: class="image-right" -->
+<div>
+
+&nbsp;
+
+&nbsp;
+
+### Brian Ferneyhough
+
+b. 1943, Coventry, UK
+
+</div>
+<figure>
+![Ferneyhough in 1988](img/ferneyhough.jpg)
+</figure>
+
+Note:
+
+Photo: August 1988, Betty Freeman
+
+--
 ![Technical diagram for Ferneyhough’s Time and Motion Study II](/img/ferneyhough-tech-layout.png)
 
 Note:
@@ -11,6 +32,7 @@ Note:
 - 2 foot pedals
 - ring modulator
 - ≥ 2 assistants
+- “electronic environment” (*CW*, p.13)
 
 --
 <!-- .slide: data-background="#000000" data-background-video="/vid/gilbreth-stamping.mp4,/vid/gilbreth-stamping.webm" data-background-video-loop -->
