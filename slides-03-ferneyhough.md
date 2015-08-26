@@ -1,5 +1,6 @@
 # Brian Ferneyhough
 ## *Time and Motion Study II*
+### 1973–76
 
 --
 <!-- .slide: data-background="#000000" data-background-video="/vid/gilbreth-stamping.mp4,/vid/gilbreth-stamping.webm" data-background-video-loop -->
