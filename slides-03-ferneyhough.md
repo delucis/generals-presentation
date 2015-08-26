@@ -3,6 +3,16 @@
 ### 1973–76
 
 --
+![Technical diagram for Ferneyhough’s Time and Motion Study II](/img/ferneyhough-tech-layout.png)
+
+Note:
+- 2 looping tapes
+- 2 contact mics, 1 throat, 1 “air”
+- 2 foot pedals
+- ring modulator
+- ≥ 2 assistants
+
+--
 <!-- .slide: data-background="#000000" data-background-video="/vid/gilbreth-stamping.mp4,/vid/gilbreth-stamping.webm" data-background-video-loop -->
 
 Note:
