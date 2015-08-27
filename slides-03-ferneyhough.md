@@ -35,7 +35,12 @@ Note:
 - “electronic environment” (*CW*, p.13)
 
 --
-<!-- .slide: data-background="#000000" data-background-video="/vid/gilbreth-stamping.mp4,/vid/gilbreth-stamping.webm" data-background-video-loop -->
+<!-- .slide: data-background="#000000" -->
+<video controls>
+  <source data-src="vid/gilbreth-stamping.mp4" type="video/mp4">
+  <source data-src="vid/gilbreth-stamping.webm" type="video/webm">
+  Sorry, old browser, no video for you.
+</video>
 
 Note:
 - Frank Bunker & Lillian M. Gilbreth
