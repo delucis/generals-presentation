@@ -42,3 +42,7 @@ d. 1983, Rome, Italy
 
 Note:
 
+
+--
+
+![Stage layout diagram for Berio’s Circles](/img/berio-layout.png)
