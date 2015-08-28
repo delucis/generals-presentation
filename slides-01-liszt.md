@@ -57,67 +57,54 @@ Dedication to Robert Schumann on First Edition title page
 
 ![Principal motifs (bb. 1–17)](img/liszt-motifs-1.png)
 
-Note:
-- First page:
 <audio controls>
   <source src="../../audio/liszt-opening-motifs-bb-1-17.mp3" type="audio/ogg">
   <source src="../../audio/liszt-opening-motifs-bb-1-17.ogg" type="audio/mpeg">
   Sorry, old browser, no audio for you.
 </audio>
-- Just **a**:
-<audio controls>
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.mp3#t=,33.134" type="audio/ogg">
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.ogg#t=,33.134" type="audio/mpeg">
-  Sorry, old browser, no audio for you.
-</audio>
-- Just **b**:
-<audio controls>
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.mp3#t=33.545,43.5" type="audio/ogg">
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.ogg#t=33.545,43.5" type="audio/mpeg">
-  Sorry, old browser, no audio for you.
-</audio>
-- Just **c**:
-<audio controls>
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.mp3#t=43.731" type="audio/ogg">
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.ogg#t=43.731" type="audio/mpeg">
-  Sorry, old browser, no audio for you.
-</audio>
+
+Note:
 
 --
 
 ![Secondary motifs (bb. 105–6 & 334–6)](img/liszt-motifs-2.png)
 
-Note:
-- Motif **d**:
-<audio controls>
-  <source src="../../audio/liszt-motif-d-bb-105-110.mp3" type="audio/ogg">
-  <source src="../../audio/liszt-motif-d-bb-105-110.ogg" type="audio/mpeg">
-  Sorry, old browser, no audio for you.
-</audio>
-- Motif **e**:
-<audio controls>
-  <source src="../../audio/liszt-motif-e-bb-334-338.mp3" type="audio/ogg">
-  <source src="../../audio/liszt-motif-e-bb-334-338.ogg" type="audio/mpeg">
-  Sorry, old browser, no audio for you.
-</audio>
-
+<span>
+  d
+  <audio controls>
+    <source src="../../audio/liszt-motif-d-bb-105-110.mp3" type="audio/ogg">
+    <source src="../../audio/liszt-motif-d-bb-105-110.ogg" type="audio/mpeg">
+    Sorry, old browser, no audio for you.
+  </audio>
+</span>
+<span>
+  e
+  <audio controls>
+    <source src="../../audio/liszt-motif-e-bb-334-338.mp3" type="audio/ogg">
+    <source src="../../audio/liszt-motif-e-bb-334-338.ogg" type="audio/mpeg">
+    Sorry, old browser, no audio for you.
+  </audio>
+</span>
 --
 
 ![Motif transformation: c to c1](img/liszt-motifs-3.png)
 
-Note:
-- Motif **c** again:
+<div>
+c
 <audio controls>
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.mp3#t=43.731" type="audio/ogg">
-  <source src="../../audio/liszt-opening-motifs-bb-1-17.ogg#t=43.731" type="audio/mpeg">
+  <source src="../../audio/liszt-opening-motif-c-bb-13-17.mp3" type="audio/ogg">
+  <source src="../../audio/liszt-opening-motif-c-bb-13-17.ogg" type="audio/mpeg">
   Sorry, old browser, no audio for you.
 </audio>
-- **c₁** in bb.153–9
+</div>
+<div>
+c₁
 <audio controls>
   <source src="../../audio/liszt-motif-c1-bb-153-159.mp3" type="audio/ogg">
   <source src="../../audio/liszt-motif-c1-bb-153-159.ogg" type="audio/mpeg">
   Sorry, old browser, no audio for you.
 </audio>
+</div>
 --
 
 ![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map.png)
