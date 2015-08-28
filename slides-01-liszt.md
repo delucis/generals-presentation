@@ -85,4 +85,22 @@ Note:
 
 --
 
+![Secondary motifs (bb. 105–6 & 334–6)](img/liszt-motifs-2.png)
+
+Note:
+- Motif **d**:
+<audio controls>
+  <source src="../../audio/liszt-motif-d-bb-105-110.mp3" type="audio/ogg">
+  <source src="../../audio/liszt-motif-d-bb-105-110.ogg" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+- Motif **e**:
+<audio controls>
+  <source src="../../audio/liszt-motif-e-bb-334-338.mp3" type="audio/ogg">
+  <source src="../../audio/liszt-motif-e-bb-334-338.ogg" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+
+--
+
 ![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map.png)
