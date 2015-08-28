@@ -103,4 +103,21 @@ Note:
 
 --
 
+![Motif transformation: c to c1](img/liszt-motifs-3.png)
+
+Note:
+- Motif **c** again:
+<audio controls>
+  <source src="../../audio/liszt-opening-motifs-bb-1-17.mp3#t=43.731" type="audio/ogg">
+  <source src="../../audio/liszt-opening-motifs-bb-1-17.ogg#t=43.731" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+- **c₁** in bb.153–9
+<audio controls>
+  <source src="../../audio/liszt-motif-c1-bb-153-159.mp3" type="audio/ogg">
+  <source src="../../audio/liszt-motif-c1-bb-153-159.ogg" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+--
+
 ![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map.png)
