@@ -55,7 +55,7 @@ Dedication to Robert Schumann on First Edition title page
 
 --
 
-![Principal motifs (bb. 1–17)](img/liszt-first-motifs.png)
+![Principal motifs (bb. 1–17)](img/liszt-motifs-1.png)
 
 Note:
 - First page:
