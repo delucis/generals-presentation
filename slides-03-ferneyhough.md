@@ -37,8 +37,8 @@ Note:
 --
 <!-- .slide: data-background="#000000" -->
 <video controls>
-  <source data-src="vid/gilbreth-stamping.mp4" type="video/mp4">
-  <source data-src="vid/gilbreth-stamping.webm" type="video/webm">
+  <source data-src="video/gilbreth-stamping.mp4" type="video/mp4">
+  <source data-src="video/gilbreth-stamping.webm" type="video/webm">
   Sorry, old browser, no video for you.
 </video>
 
@@ -62,7 +62,7 @@ Ferneyhough, *Collected Writings*:
 --
 <!-- .slide: data-background="#000000" -->
 <video controls>
-  <source data-src="vid/bf-rendering-deceptive.mp4" type="video/mp4">
+  <source data-src="video/bf-rendering-deceptive.mp4" type="video/mp4">
   Sorry, old browser, no video for you.
 </video>
 
@@ -75,6 +75,6 @@ directed by Colin Still
 --
 <!-- .slide: data-background="#000000" -->
 <video controls>
-  <source data-src="vid/bf-scream.mp4" type="video/mp4">
+  <source data-src="video/bf-scream.mp4" type="video/mp4">
   Sorry, old browser, no video for you.
 </video>
