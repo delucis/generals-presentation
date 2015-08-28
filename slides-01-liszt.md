@@ -24,7 +24,7 @@ b. 1811, Doborján, Hungary
 d. 1886, Bayreuth, Germany
 </div>
 <figure>
-![Liszt in 1858](img/liszt.jpg)
+![Liszt in 1853](img/liszt-1853.jpg)
 </figure>
 
 Note:
@@ -34,7 +34,7 @@ Note:
 - retires at 35 to focus on composition
 - 1848: moves to Weimar
 
-Photo: 5 years after the sonata
+Photo: same year as sonata
 
 --
 
