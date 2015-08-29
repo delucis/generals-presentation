@@ -21,6 +21,12 @@ d. 2003, Rome, Italy
 </figure>
 
 Note:
+- organist father & grandfather
+- no involvement in war due to injury
+- 1945 studies in Milan
+- 1950 meets & marries Berberian
+- 1952 studies w/ Dallapiccola
+- 1955 opens Studio di Fonologia
 
 --
 <!-- .slide: class="image-right" -->
