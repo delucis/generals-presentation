@@ -92,8 +92,8 @@ Note:
 <div>
 c
 <audio controls>
-  <source src="../../audio/liszt-opening-motif-c-bb-13-17.mp3" type="audio/ogg">
-  <source src="../../audio/liszt-opening-motif-c-bb-13-17.ogg" type="audio/mpeg">
+  <source src="../../audio/liszt-motif-c-bb-13-17.mp3" type="audio/ogg">
+  <source src="../../audio/liszt-motif-c-bb-13-17.ogg" type="audio/mpeg">
   Sorry, old browser, no audio for you.
 </audio>
 </div>
