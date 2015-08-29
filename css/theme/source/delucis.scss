@@ -71,6 +71,10 @@ $selectionColor: $mainColor;
   }
 }
 
+.reveal .no-bullets {
+  list-style-type: none;
+}
+
 
 // Theme template ------------------------------
 @import "../template/theme";

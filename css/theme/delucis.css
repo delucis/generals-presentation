@@ -21,6 +21,9 @@
 .image-right div {
   padding-right: 5%; }
 
+.reveal .no-bullets {
+  list-style-type: none; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
