@@ -76,7 +76,38 @@ Note:
 
 B&B separate in 1964
 
+--
+
+> The success of *Circles* led to increased recognition for both Berio and
+> Berberian. Although they had started to gain renown in Europe, particularly
+> through their work at the Studio di Fonologia Musicale, *Circles* established
+> the pair as creators of innovative, theatrical works.
+
+— Meehan, *Not Just a Pretty Voice*, 139
 
 --
 
 ![Stage layout diagram for Berio’s Circles](/img/berio-layout.png)
+
+--
+
+> Berio’s fantasy does indeed always create a plan, but this is in order to play
+> within its limits, to vary it without invalidating it, to enrich it without
+> obscuring it beneath a mass of dovetailings and superstructures.
+
+— Piero Santi, ‘Luciano Berio’ in *Die Reihe*, iv (1958), 102
+
+Note:
+Appeared alongside articles about Nono, Pousseur, Henze, Boulez (by Ligeti),
+B.A. Zimmermann, Maderna, Stockhausen a.o.
+
+--
+
+> There is a continual oscillation between periodic figures, bounded by specific
+> constellations of intervals, and complex gestural events characterized by a
+> notable degree of indeterminacy.
+
+— Berio, *Remembering the Future*, 118
+
+Note:
+Speaking in 1993/4, so more than 30 years after the fact
