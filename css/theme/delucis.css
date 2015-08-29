@@ -24,6 +24,15 @@
 .reveal .no-bullets {
   list-style-type: none; }
 
+.reveal .highlight {
+  color: #edb6b6; }
+
+.reveal .invert {
+  background: rgba(250, 252, 249, 0.9);
+  color: #33494c;
+  padding: 0 0.3em;
+  margin: 0.6em -0.3em; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/

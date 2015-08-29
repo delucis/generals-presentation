@@ -46,6 +46,7 @@ $linkColorHover: lighten( $linkColor, 20% );
 // Text selection
 $selectionBackgroundColor: rgb(255, 65, 54);
 $selectionColor: $mainColor;
+$highlightColor: rgb(237,182,182);
 
 .reveal a {
   line-height: 1.3em;
@@ -73,6 +74,17 @@ $selectionColor: $mainColor;
 
 .reveal .no-bullets {
   list-style-type: none;
+}
+
+.reveal .highlight {
+  color: $highlightColor;
+}
+
+.reveal .invert {
+  background: $mainColor;
+  color: $backgroundColor;
+  padding: 0 0.3em;
+  margin: 0.6em -0.3em;
 }
 
 
