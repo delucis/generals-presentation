@@ -27,7 +27,7 @@ Photo: August 1988, Betty Freeman
 ![Technical diagram for Ferneyhough’s Time and Motion Study II](/img/ferneyhough-tech-layout.png)
 
 Note:
-- 2 looping tapes
+- 2 looping tapes (14" & 9")
 - 2 contact mics, 1 throat, 1 “air”
 - 2 foot pedals
 - ring modulator
