@@ -75,6 +75,9 @@ $highlightColor: rgb(237,182,182);
 .reveal .no-bullets {
   list-style-type: none;
 }
+.reveal ol.roman {
+  list-style-type: upper-roman;
+}
 
 .reveal .highlight {
   color: $highlightColor;

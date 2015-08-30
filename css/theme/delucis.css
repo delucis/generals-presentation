@@ -24,6 +24,9 @@
 .reveal .no-bullets {
   list-style-type: none; }
 
+.reveal ol.roman {
+  list-style-type: upper-roman; }
+
 .reveal .highlight {
   color: #edb6b6; }
 
