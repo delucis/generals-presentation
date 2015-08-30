@@ -76,7 +76,23 @@ Ferneyhough, *Collected Writings*:
 > “…between **objectively measurable systems** and their nemesis, **subjective
 > criteria of retention**.” (114)
 
+--
 
+Ferneyhough on *Time and Motion Study I*:
+
+> “…the **‘raw’** elements were forced to generate new offshoots by being passed,
+> under pressure, through an **alien** formal grid.”
+
+Artaud quoted by vocalising cellist in *Time and Motion Study II*:
+
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+> The grid is a terrible moment for sensitivity and substance.
+
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Note:
+Introduce quote 1 with revision process information
 --
 <!-- .slide: data-background="#000000" -->
 <video controls>
