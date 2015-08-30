@@ -1,6 +1,11 @@
-# Brian Ferneyhough
-## *Time and Motion Study II*
-### 1973–76
+<!-- .slide: data-background="/img/ferneyhough-deforce-screenshot.png" -->
+<div style="background: rgba(51, 73, 76,0.9);
+            padding: 1em 0.5em;
+            margin: 0 2em;">
+  <h2>Brian Ferneyhough</h1>
+  <h1>*Time and Motion Study II*</h2>
+  <h3>1973–76</h3>
+</div>
 
 --
 <!-- .slide: class="image-right" -->
