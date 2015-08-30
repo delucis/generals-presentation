@@ -119,6 +119,30 @@ Note:
 - dissolves into non-verbal atmospheres & textures
 
 --
+<!-- .slide: class="image-right" -->
+<div>
+### e.e. cummings
+
+&nbsp;
+
+- V. ‘stinging’
+- &nbsp;
+- IV. ‘riverly is a flower’
+- &nbsp;
+- XXXVIII. ‘n(o)w’
+
+<!-- .element class="no-bullets" -->
+
+</div>
+<figure>
+![Excerpt from e.e. cummings’s ‘n(o)w’](/img/berio-cummings-iii-now-excerpt.png)
+</figure>
+
+Note:
+- Appropriateness of Cummings for phonetic interest
+- cyclical material in the text:
+  - emphasised start/end S in ‘stinging’ (I/V)
+  - natural cycles: death, rivers, seasons, moon, weather
 --
 
 ![Stage layout diagram for Berio’s Circles](/img/berio-layout.png)
