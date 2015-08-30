@@ -149,7 +149,7 @@ Note:
 
 --
 
-Diagram showing use of text in sections (ABCBA)
+![Use of texts in Circles](/img/berio-diagrams-1.png)
 
 --
 
