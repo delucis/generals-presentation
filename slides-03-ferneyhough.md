@@ -50,7 +50,21 @@ Note:
 - “electronic environment” (*CW*, p.13)
 
 --
-<!-- .slide: data-background="#000000" -->
+
+<video controls>
+  <source data-src="video/bf-rendering-deceptive.mp4" type="video/mp4">
+  Brian Ferneyhough saying, “The cellist is, erm, encompassed and enveloped, by this envelope: different speakers speaking back to him things he’s spoken already, distorting, rendering untrue, rendering deceptive like walking on very thin ice.”
+</video>
+
+Note:
+
+from: *Electric Chair Music*, 2005
+
+directed by Colin Still
+
+“The cellist is, erm, encompassed and enveloped, by this envelope: different speakers speaking back to him things he’s spoken already, distorting, rendering untrue, rendering deceptive like walking on very thin ice.”
+
+--
 
 ### Time and Motion Study
 
@@ -94,17 +108,14 @@ Artaud quoted by vocalising cellist in *Time and Motion Study II*:
 Note:
 Introduce quote 1 with revision process information
 --
-<!-- .slide: data-background="#000000" -->
+
 <video controls>
-  <source data-src="video/bf-rendering-deceptive.mp4" type="video/mp4">
-  Sorry, old browser, no video for you.
+  <source data-src="video/bf-rendering-deceptive.mp4#t=9.5,16.4" type="video/mp4">
+  Brian Ferneyhough saying, “… distorting, rendering untrue, rendering deceptive …”
 </video>
 
 Note:
-
-from: *Electric Chair Music*, 2005
-
-directed by Colin Still
+“… distorting, rendering untrue, rendering deceptive …”
 
 --
 <!-- .slide: data-background="#000000" -->
