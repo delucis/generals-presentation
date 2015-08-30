@@ -66,15 +66,11 @@ Note:
 - 1968: *Questo vuol dire che*
 - 1972: *Recital I (for Cathy)*
 
-Note:
-- 1953 B&B’s daughter Cristina born
-- 1964 B&B separate after affair
-
 <!-- .element class="no-bullets" -->
 
 Note:
-
-B&B separate in 1964
+- 1953 B&B’s daughter Cristina born
+- 1964 B&B separate after affair
 
 --
 
