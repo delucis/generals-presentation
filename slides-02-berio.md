@@ -88,10 +88,17 @@ Note:
 - Berio preferred to play down Berberian’s importance
 
 --
+<!-- .slide: data-background="/img/berio-studio-di-fonologia.jpg" -->
+## Studio di fonologia musicale di Radio Milano
 
-### Cummings
+<!-- .element: class="overlay-title fragment fade-out" -->
 
-w/ image of ‘n(o)w’ (?)
+Note:
+- ’55 opens w/ Maderna as co-director
+- influence of Eco
+- ’59 Cage prepares version of _Fontana Mix_
+
+--
 
 --
 
