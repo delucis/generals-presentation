@@ -112,6 +112,10 @@ c₁
   Sorry, old browser, no audio for you.
 </audio>
 </div>
+
+Note:
+c characterized not just by knocking, but also the repetition a step higher
+
 --
 
 <!-- .slide: data-transition="concave-in fade-out" -->
