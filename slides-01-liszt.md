@@ -62,9 +62,9 @@ Dedication to Robert Schumann on First Edition title page
 </audio>
 
 Note:
-- a: desc. melodic minor (flat supertonic) & Hungarian minor scale
-- b: angular
-- c: knocking
+- a: desc. melodic minor w/ flat supertonic __*or*__ phrygian  & Hungarian minor scale
+- b: angular, non-affirmative, hinting at Bm
+- c: knocking, similar
 
 --
 
@@ -88,7 +88,7 @@ Note:
 </span>
 
 Note:
-- d arrives at first full cadential resolution (Grandioso, b.105)
+- d arrives at first full cadential resolution V-I in DM (Grandioso, b.105)
 
 --
 
@@ -158,3 +158,8 @@ Not so clear, but listen for the inner voice
 --
 <!-- .slide: data-transition="fade-in concave-out" -->
 ![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map-2.png)
+
+Note:
+- Argue for cyclical/spatial return as operator.
+- Although motivic/thematic development is present, it is the repeated
+  returning to areas, including at v. end, that is phenomenologically dominant
