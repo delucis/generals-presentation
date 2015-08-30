@@ -118,6 +118,29 @@ c characterized not just by knocking, but also the repetition a step higher
 
 --
 
+![Superposition of motifs b & c](img/liszt-motifs-4.png)
+
+<div>
+b
+<audio controls>
+  <source src="../../audio/liszt-opening-motif-b-bb-9-11.ogg#t=33.545,43.5" type="audio/ogg">
+  <source src="../../audio/liszt-opening-motif-b-bb-9-11.mp3#t=33.545,43.5" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+</div>
+<div>
+bb.319–23
+<audio controls>
+  <source src="../../audio/liszt-superposition-bb-319-323.ogg" type="audio/ogg">
+  <source src="../../audio/liszt-superposition-bb-319-323.mp3" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+</div>
+
+Note:
+b augmented over the very clear statement of c
+
+--
 <!-- .slide: data-transition="concave-in fade-out" -->
 ![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map.png)
 
