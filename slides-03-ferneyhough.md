@@ -51,11 +51,14 @@ Note:
 
 --
 <!-- .slide: data-background="#000000" -->
+
+### Time and Motion Study
+
 <video controls>
   <source data-src="video/gilbreth-stamping.mp4" type="video/mp4">
   <source data-src="video/gilbreth-stamping.webm" type="video/webm">
   Sorry, old browser, no video for you.
-</video>
+</video><!-- .element: class="fragment grow" data-fragment-index="1" -->
 
 Note:
 - Frank Bunker & Lillian M. Gilbreth
