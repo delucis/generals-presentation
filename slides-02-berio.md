@@ -1,7 +1,5 @@
 <!-- .slide: data-background="/img/berio-circles-fullscreen.png" -->
-<div style="background: rgba(51, 73, 76,0.9);
-            padding: 1em 0.5em;
-            margin: 0 2em;">
+<div class="overlay-title">
   <h2>Luciano Berio</h1>
   <h1>*Circles*</h2>
   <h3>1960</h3>

@@ -1,7 +1,5 @@
 <!-- .slide: data-background="/img/liszt-manuscript-page.png" -->
-<div style="background: rgba(51, 73, 76,0.9);
-            padding: 1em 0.5em;
-            margin: 0 2em;">
+<div class="overlay-title">
   <h1>Franz Liszt</h1>
   <h2>Piano Sonata in B minor</h2>
   <h3>1853</h3>
