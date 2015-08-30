@@ -29,6 +29,16 @@ Note:
 Photo: August 1988, Betty Freeman
 
 --
+
+### *Time and Motion Study* series
+
+1. for solo bass clarinet (1971–77)
+2. for cello and electronics (1973–76)
+3. for 16 solo voices with percussion & electronics (1974)
+
+<!-- .element: type="I" class="roman" -->
+
+--
 ![Technical diagram for Ferneyhough’s Time and Motion Study II](/img/ferneyhough-tech-layout.png)
 
 Note:
