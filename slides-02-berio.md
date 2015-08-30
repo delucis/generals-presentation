@@ -100,6 +100,25 @@ Note:
 
 --
 
+## _Thema (Omaggio a Joyce)_
+### (1958)
+
+&nbsp;
+
+<audio controls>
+  <source src="../../audio/berio-thema.ogg" type="audio/ogg">
+  <source src="../../audio/berio-thema.mp3" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+
+Note:
+- Eco introduced B. to Joyce
+- B. introduces Eco to Saussure
+- starts with Berberian’s evocative reading (first 2')
+- creation of space *from* voice around voice
+- dissolves into non-verbal atmospheres & textures
+
+--
 --
 
 ![Stage layout diagram for Berio’s Circles](/img/berio-layout.png)
