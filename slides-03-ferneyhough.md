@@ -47,6 +47,8 @@ Note:
 - ≥ 2 assistants
 - “electronic environment” (*CW*, p.13)
 
+Modern performances use Max/MSP
+
 --
 
 <video controls>
@@ -88,6 +90,12 @@ Ferneyhough, *Collected Writings*:
 > “…between **objectively measurable systems** and their nemesis, **subjective
 > criteria of retention**.” (114)
 
+Note:
+
+- efficiency
+- W. Benjamin
+- tape as memory
+
 --
 
 Ferneyhough on *Time and Motion Study I*:
@@ -104,7 +112,10 @@ Artaud quoted by vocalising cellist in *Time and Motion Study II*:
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
-Introduce quote 1 with revision process information
+- Introduce quote 1 with _TMS I_ revision process information
+- Quote 2 from same text used for cellist in _TMS II_
+- Used twice by F. in his other writings
+
 --
 
 <video controls>
