@@ -107,8 +107,8 @@ c
 <div>
 c₁
 <audio controls>
-  <source src="../../audio/liszt-motif-c1-bb-153-159.mp3" type="audio/ogg">
-  <source src="../../audio/liszt-motif-c1-bb-153-159.ogg" type="audio/mpeg">
+  <source src="../../audio/liszt-motif-c1-bb-153-159.ogg" type="audio/ogg">
+  <source src="../../audio/liszt-motif-c1-bb-153-159.mp3" type="audio/mpeg">
   Sorry, old browser, no audio for you.
 </audio>
 </div>
