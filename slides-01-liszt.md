@@ -64,6 +64,9 @@ Dedication to Robert Schumann on First Edition title page
 </audio>
 
 Note:
+- a: desc. melodic minor (flat supertonic) & Hungarian minor scale
+- b: angular
+- c: knocking
 
 --
 
@@ -85,6 +88,10 @@ Note:
     Sorry, old browser, no audio for you.
   </audio>
 </span>
+
+Note:
+- d arrives at first full cadential resolution (Grandioso, b.105)
+
 --
 
 ![Motif transformation: c to c1](img/liszt-motifs-3.png)
