@@ -75,15 +75,8 @@ Note:
 Note:
 - 1953 B&B’s daughter Cristina born
 - 1964 B&B separate after affair
-
---
-
-> The success of *Circles* led to increased recognition for both Berio and
-> Berberian. Although they had started to gain renown in Europe, particularly
-> through their work at the Studio di Fonologia Musicale, *Circles* established
-> the pair as creators of innovative, theatrical works.
-
-— Meehan, *Not Just a Pretty Voice*, 139
+- “The success of *Circles* led to increased recognition for both … established
+  the pair as creators of innovative, theatrical works.” (Meehan)
 
 --
 
