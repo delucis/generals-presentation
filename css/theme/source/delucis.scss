@@ -90,6 +90,12 @@ $highlightColor: rgb(237,182,182);
   margin: 0.6em -0.3em;
 }
 
+.reveal .overlay-title {
+  background: rgba($backgroundColor,0.9);
+  padding: 1em 0.5em;
+  margin: 0 2em;
+}
+
 
 // Theme template ------------------------------
 @import "../template/theme";

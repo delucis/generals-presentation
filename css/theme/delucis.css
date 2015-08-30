@@ -36,6 +36,11 @@
   padding: 0 0.3em;
   margin: 0.6em -0.3em; }
 
+.reveal .overlay-title {
+  background: rgba(51, 73, 76, 0.9);
+  padding: 1em 0.5em;
+  margin: 0 2em; }
+
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
