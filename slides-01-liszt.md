@@ -114,4 +114,9 @@ c₁
 </div>
 --
 
+<!-- .slide: data-transition="concave-in fade-out" -->
 ![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map.png)
+
+--
+<!-- .slide: data-transition="fade-in concave-out" -->
+![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map-2.png)
