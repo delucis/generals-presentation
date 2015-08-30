@@ -4,6 +4,10 @@
   <h1>*Circles*</h2>
   <h3>1960</h3>
 </div>
+
+Note:
+“The success of *Circles* led to increased recognition for both … established
+  the pair as creators of innovative, theatrical works.” (Meehan)
 --
 <!-- .slide: class="image-right" -->
 <div>
@@ -49,6 +53,13 @@ d. 1983, Rome, Italy
 </figure>
 
 Note:
+- born to American Armenians
+- performing arts @ Columbia & NYU
+- studies in Paris (’48) & Milan (’49-50)
+- collaborates w/ Berio & Studio Fon.
+- ’53 break after childbirth
+- ’58 premieres Cage’s _Aria_
+- collaborations w/ Maderna, Haubenstock-Ramati, Stravinsky, Bussotti, Pousseur, Cage…
 
 --
 ### Works involving Berberian
@@ -71,10 +82,11 @@ Note:
 <!-- .element class="no-bullets" -->
 
 Note:
-- 1953 B&B’s daughter Cristina born
-- 1964 B&B separate after affair
-- “The success of *Circles* led to increased recognition for both … established
-  the pair as creators of innovative, theatrical works.” (Meehan)
+- ’53 B&B’s daughter Cristina born
+- ’64 B&B separate after affair
+- “Berio … inspired by her vocal virtuosity, darting, witty intelligence and vivid presence, in effect limned the voices, styles and temperament of this remarkable performer.” (Grove)
+- Berio preferred to play down Berberian’s importance
+
 --
 
 ### Cummings
