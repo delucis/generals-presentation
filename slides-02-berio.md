@@ -75,10 +75,19 @@ Note:
 - 1964 B&B separate after affair
 - “The success of *Circles* led to increased recognition for both … established
   the pair as creators of innovative, theatrical works.” (Meehan)
+--
+
+### Cummings
+
+w/ image of ‘n(o)w’ (?)
 
 --
 
 ![Stage layout diagram for Berio’s Circles](/img/berio-layout.png)
+
+--
+
+Diagram showing use of text in sections (ABCBA)
 
 --
 
@@ -102,3 +111,17 @@ B.A. Zimmermann, Maderna, Stockhausen a.o.
 
 Note:
 Speaking in 1993/4, so more than 30 years after the fact
+
+Discussion of the looseness of Berio’s structuring principles
+
+--
+
+Demonstrate repeated pitch material I —> IV
+
+--
+
+Similarly with instrumentation across the work
+
+--
+
+End with rearticulation of texts (ABCBA) vs. musical material (arguably ABCAB)

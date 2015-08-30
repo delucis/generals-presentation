@@ -98,12 +98,16 @@ Note:
 
 --
 
-Ferneyhough on *Time and Motion Study I*:
+score example demonstrating excess (inefficiency) of instrumental gesture
 
-> “…the **‘raw’** elements were forced to generate new offshoots by being passed,
-> under pressure, through an **alien** formal grid.”
+--
 
-Artaud quoted by vocalising cellist in *Time and Motion Study II*:
+Ferneyhough, _Collected Writings_:
+
+> …the **‘raw’** elements were forced to generate new offshoots by being passed,
+> under pressure, through an **alien** formal grid. (113)
+
+Artaud, _Le Pèse-Nerfs_:
 
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -117,6 +121,15 @@ Note:
 - Used twice by F. in his other writings
 
 --
+Ferneyhough, *Collected Writings*:
+
+> “…the electronic ‘cage’…” (108)
+
+&nbsp;
+
+> “…encounter between the sort of self-expression demarcating the individual and a sometimes uncooperatively febrile array of sonic ‘distorting mirrors’ of collectivity…” (108)
+
+--
 
 <video controls>
   <source data-src="video/bf-rendering-deceptive.mp4#t=9.5,16.4" type="video/mp4">
@@ -127,8 +140,52 @@ Note:
 “… distorting, rendering untrue, rendering deceptive …”
 
 --
+
+### bifurcations
+
+objective  | subjective
+
+raw        | transformed
+
+pure       | distorted  
+
+true       | untrue
+
+honest     | deceptive  
+
+figure     | grid
+
+‘live’     | electronic
+
+individual | apparatus  
+
+human      | technological
+
+——> pressure/force ——>
+
+
+--
 <!-- .slide: data-background="#000000" -->
 <video controls>
   <source data-src="video/bf-scream.mp4" type="video/mp4">
   Sorry, old browser, no video for you.
 </video>
+
+Note:
+The “violence” is very clear in how F. speaks of the exhaustion/death of the
+musician at the end of the work.
+
+--
+
+# But!
+
+- Iddon: cyborgs
+
+--
+
+“electronic environment” as cyborg-subject
+
+space of experience expanded from the unitary subject
+
+Note:
+Counter-argument to F.’s pessimism
