@@ -141,6 +141,19 @@ Note:
 b augmented over the very clear statement of c
 
 --
+
+![Expansion of motif b into figuration](img/liszt-motifs-5.png)
+
+<audio controls>
+  <source src="../../audio/liszt-figuration-bb-179-190.ogg" type="audio/ogg">
+  <source src="../../audio/liszt-figuration-bb-179-190.mp3" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+
+Note:
+Not so clear, but listen for the inner voice
+
+--
 <!-- .slide: data-transition="concave-in fade-out" -->
 ![Motif distribution in Liszt’s B minor Sonata](img/liszt-motif-map.png)
 
