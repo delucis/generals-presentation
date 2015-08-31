@@ -158,6 +158,10 @@ Note:
 
 ![Use of texts in Circles](/img/berio-diagrams-1.png)
 
+Note:
+- most obvious ‘circle’
+- question it’s conceptual coherence
+
 --
 
 > Berio’s fantasy does indeed always create a plan, but this is in order to play
