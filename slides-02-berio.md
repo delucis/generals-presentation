@@ -179,7 +179,9 @@ B.A. Zimmermann, Maderna, Stockhausen a.o.
 — Berio, *Remembering the Future*, 118
 
 Note:
-Speaking in 1993/4, so more than 30 years after the fact
+- Speaking in 1993/4, so more than 30 years after the fact
+- Discussion of the looseness of Berio’s structuring principles
+
 
 Discussion of the looseness of Berio’s structuring principles
 
