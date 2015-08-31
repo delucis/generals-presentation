@@ -150,6 +150,10 @@ Note:
 
 ![Stage layout diagram for Berio’s Circles](/img/berio-layout.png)
 
+Note:
+- wide range of percussion allowing closeness to character of text
+- visual “environment” created by forests of instruments
+
 --
 
 ![Use of texts in Circles](/img/berio-diagrams-1.png)
