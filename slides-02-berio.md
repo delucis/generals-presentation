@@ -170,6 +170,11 @@ Note:
 Appeared alongside articles about Nono, Pousseur, Henze, Boulez (by Ligeti),
 B.A. Zimmermann, Maderna, Stockhausen a.o.
 
+- following Dallapiccola, serial
+- Eco’s “open form”
+- _Sequenza I_ (flute) — 1958
+- searching new directions
+
 --
 
 > There is a continual oscillation between periodic figures, bounded by specific
