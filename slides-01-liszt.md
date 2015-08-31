@@ -75,6 +75,8 @@ Note:
 - b: angular, non-affirmative, hinting at Bm
 - c: knocking, similar
 
+Mention Argerich recording
+
 --
 
 ![Secondary motifs (bb. 105–6 & 334–6)](img/liszt-motifs-2.png)
