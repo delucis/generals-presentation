@@ -180,13 +180,38 @@ musician at the end of the work.
 
 # But!
 
-- Iddon: cyborgs
+> A cyborg is a cybernetic organism, a hybrid of machine and organism, a
+> creature of social reality as well as a creature of fiction.
+>
+> […]
+>
+> This chapter is an argument for _pleasure_ in the confusion of boundaries and
+> for _responsibility_ in their construction.
+
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+— Haraway, _Simians, Cyborgs, and Women_, 149–50
+
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Note:
+- credit Iddon
+- more positive spin
+- deconstructing binaries
+  - “organism/machine, self/other, culture/nature, reality/appearance,
+    whole/part, agent/resource, truth/illusion”
+- is cello technology?
 
 --
 
-“electronic environment” as cyborg-subject
+> A cyborg body is not innocent, it was not born in a garden; it does not seek
+> unitary identity and so generate antagonistic dualisms without end (or until
+> the world ends); it takes irony for granted. __One is too few, and two is
+> only one possibility.__
 
-space of experience expanded from the unitary subject
+— Haraway, _Simians, Cyborgs, and Women_, 180
 
 Note:
-Counter-argument to F.’s pessimism
+- “electronic environment” as cyborg-subject
+- space of experience expanded from the unitary subject
+- Counter-argument to F.’s pessimism
