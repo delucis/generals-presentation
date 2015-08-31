@@ -159,28 +159,9 @@ Note:
 
 --
 
-### bifurcations
+#### Ferneyhough’s Binaries
 
-objective  | subjective
-
-raw        | transformed
-
-pure       | distorted  
-
-true       | untrue
-
-honest     | deceptive  
-
-figure     | grid
-
-‘live’     | electronic
-
-individual | apparatus  
-
-human      | technological
-
-——> pressure/force ——>
-
+![Ferneyhough’s Binaries](/img/ferneyhough-examples-2.png)
 
 --
 <!-- .slide: data-background="#000000" -->
