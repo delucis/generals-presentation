@@ -44,6 +44,14 @@ Dedication to Robert Schumann on First Edition title page
 ![Schumann Dedication](img/liszt-first-edition-dedication.png)
 <!-- .element: style="border: none; background: transparent; box-shadow: none; width: 85%;" -->
 
+Note:
+- Leipzig: Schumann, Brahms, Mendelssohn & Hanslick
+- dedication reciprocates C Major Fantasie (1839)
+- Schumann used Liszt’s name when unknown
+- Liszt & the Schumanns fall out
+- Liszt attempts to lay claim to traditionalism
+- premièred by student Hans von Bülow, 22 January 1857 (3 years later)
+
 --
 
 ![Analyses of Sonata Form in Liszt’s B minor Sonata](img/liszt-sonata-form-analyses.png)
