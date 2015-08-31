@@ -29,8 +29,9 @@ Note:
 - studies w/ Salieri & Czerny in Vienna
 - succesful career as a touring pianist
 - Heinrich Heine: “Lisztomania”
+- February 1847 meets Carolyne zu Sayn-Wittgenstein
 - retires at 35 to focus on composition
-- 1848: moves to Weimar
+- 1848: takes Kapellmeister post in Weimar
 
 Photo: same year as sonata
 
