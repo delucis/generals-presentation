@@ -156,6 +156,33 @@ Note:
 
 --
 
+> They had to produce sounds that resembled the word that I said and I had to
+> move the sound of the pronounced word closer to the timbre of the instruments.
+> So, the “Sting” of the beginning, for example, exactly resembles the sound of
+> the harp.
+
+— Cathy Berberian
+
+Note:
+- discuss idea of mimicking
+- relate to *Thema (Omaggio a Joyce)*
+
+--
+
+![Movement of vocal textures to instrumental](/img/berio-diagrams-3.png)
+
+<audio controls>
+  <source src="../../audio/berio-circles-I-p7.ogg" type="audio/ogg">
+  <source src="../../audio/berio-circles-I-p7.mp3" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+
+Note:
+- first entrance of percussion
+- build space _from_ “-S”
+
+--
+
 ![Use of texts in Circles](/img/berio-diagrams-1.png)
 
 Note:
@@ -191,6 +218,7 @@ Note:
 - Speaking in 1993/4, so more than 30 years after the fact
 - Discussion of the looseness of Berio’s structuring principles
 
+--
 
 ![Demonstrate repeated pitch material I —> IV](/img/berio-diagrams-2.png)
 
