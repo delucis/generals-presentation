@@ -100,6 +100,7 @@ Mention Argerich recording
 
 Note:
 - d arrives at first full cadential resolution V-I in DM (Grandioso, b.105)
+- all: importance of repetition & the __rising step__ (for all but e)
 
 --
 
