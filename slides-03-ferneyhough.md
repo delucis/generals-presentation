@@ -178,6 +178,15 @@ musician at the end of the work.
 
 --
 
+![Time and Motion Study II, formal diagram](/img/ferneyhough-examples-4.png)
+
+Note:
+- s.24–28: 11 pitch class expanding pitch field (starts G, ends C#)
+- s.30–41: self-implication/mutilation in ring modulation
+- s.44: entrance of scream prepared by high wavering B
+
+--
+
 # But!
 
 > A cyborg is a cybernetic organism, a hybrid of machine and organism, a
@@ -215,3 +224,12 @@ Note:
 - “electronic environment” as cyborg-subject
 - space of experience expanded from the unitary subject
 - Counter-argument to F.’s pessimism
+
+--
+
+![Distributed agency or oppressive control?](/img/ferneyhough-examples-3.png)
+
+Note:
+- local vs. distributed
+- the cyborg agency is not unitary/local
+- this dilutes the fear that the subject is being imprisoned oppressed
