@@ -171,10 +171,10 @@ Note:
 </video>
 
 Note:
-The “violence” is very clear in how F. speaks of the exhaustion/death of the
+- The “violence” is very clear in how F. speaks of the exhaustion/death of the
 musician at the end of the work.
-
-“switching off” / electric chair
+- “switching off” / electric chair
+- discuss form/dramaturgy
 
 --
 
