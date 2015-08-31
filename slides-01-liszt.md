@@ -161,7 +161,8 @@ b **augmented** over the very clear statement of c
 </audio>
 
 Note:
-Not so clear, but listen for the inner voice
+- Not so clear, but listen for the inner voice
+- Often prefigures return to the fragmented material
 
 --
 <!-- .slide: data-transition="concave-in fade-out" -->
