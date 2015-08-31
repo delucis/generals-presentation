@@ -183,16 +183,55 @@ Note:
 - Discussion of the looseness of Berio’s structuring principles
 
 
-Discussion of the looseness of Berio’s structuring principles
+![Demonstrate repeated pitch material I —> IV](/img/berio-diagrams-2.png)
+
+<div>
+I
+<audio controls>
+  <source src="../../audio/berio-circles-I-p1.ogg" type="audio/ogg">
+  <source src="../../audio/berio-circles-I-p1.mp3" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+</div>
+<div>
+IV
+<audio controls>
+  <source src="../../audio/berio-circles-IV-p31-32.ogg" type="audio/ogg">
+  <source src="../../audio/berio-circles-IV-p31-32.mp3" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+</div>
+
+Note:
+- construction known thanks to Charles Stratford
+- premiere recording w/ Berberian
+- D — start & end, like stinging (token symbolism)
+- C# importance in II & V
 
 --
 
-Demonstrate repeated pitch material I —> IV
+![Percussion resonance in Circles](/img/berio-diagrams-4.png)
+
+Note:
+- articulation of sections
+- increasingly resonant
+- resonance as movement towards spaces of recollection
+- combine with ideas of space/memory (vocalist’s movement)
 
 --
 
-Similarly with instrumentation across the work
+![indeterminacy as environment](/img/berio-diagrams-5.png)
+
+Note:
+- refer back to Berio quote
+- Discuss use of indeterminacy in III (boxes)
+- definition of space/environment
+
 
 --
 
-End with rearticulation of texts (ABCBA) vs. musical material (arguably ABCAB)
+![Alternate formal readings: ABCBA vs ABCAB](/img/berio-diagrams-6.png)
+
+Note:
+- tokenism, looseness (D–D, circular percussion movement)
+- local circle (return) not just global
