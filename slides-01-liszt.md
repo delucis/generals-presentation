@@ -56,9 +56,17 @@ Note:
 
 ![Analyses of Sonata Form in Liszt’s B minor Sonata](img/liszt-sonata-form-analyses.png)
 
+Note:
+- Historical/discursive importance of sonata form
+- difficulty in analysis
+- perhaps not most interesting approach
+
 --
 
 ![High-level tempi markings in Liszt’s B minor Sonata](img/liszt-tempi.png)
+
+Note:
+Rough breakdown of work sections, including links with form from before
 
 --
 
