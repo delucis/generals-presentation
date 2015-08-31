@@ -148,7 +148,7 @@ bb.319–23
 </div>
 
 Note:
-b augmented over the very clear statement of c
+b **augmented** over the very clear statement of c
 
 --
 
