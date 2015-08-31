@@ -23,6 +23,12 @@ b. 1943, Coventry, UK
 </figure>
 
 Note:
+- ’60s: Birmingham School of Music, RAM (Lennox Berkeley)
+- ’68: Ton de Leeuw in Amsterdam
+- ’69–71: Klaus Huber in Basel
+- ’73–86: Teacher in Freiburg
+- ’70s see rise in recognition, teaches at Darmstadt
+- ’87 —> UCSD
 
 Photo: August 1988, Betty Freeman
 
