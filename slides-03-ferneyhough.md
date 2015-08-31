@@ -52,6 +52,7 @@ Note:
 - ring modulator
 - ≥ 2 assistants
 - “electronic environment” (*CW*, p.13)
+  - relate to Berio
 
 Modern performances use Max/MSP
 
