@@ -105,7 +105,18 @@ Note:
 
 --
 
-score example demonstrating excess (inefficiency) of instrumental gesture
+![Time and Motion Study II, I.3.iii (p.5), cello part](/img/ferneyhough-examples-1.png)
+
+<audio controls>
+  <source src="../../audio/ferneyhough-tms-ii-p5.ogg" type="audio/ogg">
+  <source src="../../audio/ferneyhough-tms-ii-p5.mp3" type="audio/mpeg">
+  Sorry, old browser, no audio for you.
+</audio>
+
+Note:
+- Inefficiency/excess of instrumental gesture
+- arguable relation to L’s _Pression_ (1969)
+- such inefficiency exacerbated by electronic swamping later
 
 --
 
