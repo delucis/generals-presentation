@@ -141,9 +141,11 @@ Note:
 
 Note:
 - Appropriateness of Cummings for phonetic interest
+  - sketches group text of ‘stinging’ by phoneme relationships
 - cyclical material in the text:
   - emphasised start/end S in ‘stinging’ (I/V)
   - natural cycles: death, rivers, seasons, moon, weather
+
 --
 
 ![Stage layout diagram for Berio’s Circles](/img/berio-layout.png)
