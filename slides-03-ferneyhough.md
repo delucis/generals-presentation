@@ -59,7 +59,7 @@ Modern performances use Max/MSP
 --
 
 <video controls>
-  <source data-src="video/bf-rendering-deceptive.mp4" type="video/mp4">
+  <source data-src="https://github.com/delucis/generals-presentation/blob/master/video/bf-rendering-deceptive.mp4?raw=true" type="video/mp4">
   Brian Ferneyhough saying, “The cellist is, erm, encompassed and enveloped, by this envelope: different speakers speaking back to him things he’s spoken already, distorting, rendering untrue, rendering deceptive like walking on very thin ice.”
 </video>
 
@@ -76,8 +76,8 @@ directed by Colin Still
 ### Time and Motion Study
 
 <video controls>
-  <source data-src="video/gilbreth-stamping.mp4" type="video/mp4">
-  <source data-src="video/gilbreth-stamping.webm" type="video/webm">
+  <source data-src="https://github.com/delucis/generals-presentation/blob/master/video/gilbreth-stamping.mp4?raw=true" type="video/mp4">
+  <source data-src="https://github.com/delucis/generals-presentation/blob/master/video/gilbreth-stamping.webm?raw=true" type="video/webm">
   Sorry, old browser, no video for you.
 </video><!-- .element: class="fragment grow" data-fragment-index="1" -->
 
@@ -150,7 +150,7 @@ Ferneyhough, *Collected Writings*:
 --
 
 <video controls>
-  <source data-src="video/bf-rendering-deceptive.mp4#t=9.5,16.4" type="video/mp4">
+  <source data-src="https://github.com/delucis/generals-presentation/blob/master/video/bf-rendering-deceptive.mp4?raw=true#t=9.5,16.4" type="video/mp4">
   Brian Ferneyhough saying, “… distorting, rendering untrue, rendering deceptive …”
 </video>
 
@@ -166,7 +166,7 @@ Note:
 --
 <!-- .slide: data-background="#000000" -->
 <video controls>
-  <source data-src="video/bf-scream.mp4" type="video/mp4">
+  <source data-src="https://github.com/delucis/generals-presentation/blob/master/video/bf-scream.mp4?raw=true" type="video/mp4">
   Sorry, old browser, no video for you.
 </video>
 
